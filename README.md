@@ -20,3 +20,4 @@ Bases on the analysis,we recommend the following actions:
 ### Limitations
 - The data is only the month of october 2020.
 - The csat score column is mostly blank.
+- 
