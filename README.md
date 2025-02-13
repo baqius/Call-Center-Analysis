@@ -1,5 +1,6 @@
 # Call-Center-Dashboard-Excel
 ### Project Overview
+---
 This data analysis project aims to provide insights about the call center company over the month of october 2020. 
 By analyzing various aspects of the data,we seek to make data driven recommendation and gain a deeper understanding of the company's performance.
 ![call center](https://github.com/user-attachments/assets/f96803d0-846f-471a-94cc-317c1740de0a)
